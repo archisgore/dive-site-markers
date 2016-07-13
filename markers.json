@@ -25,6 +25,19 @@
         "documented": "YES",
         "identified": "YES",
         "fragile": "NO"
+      },
+      {
+        "lat": "48.1698036",
+        "lng": "-123.706822",
+        "id": "NEAH01",
+        "name": "Diamond Knot",
+        "alias": "The 'Knot",
+        "desc": "Large Shipping vessel",
+        "depth": "-40",
+        "explored": "YES",
+        "documented": "YES",
+        "identified": "YES",
+        "fragile": "NO"
       }
     ]
 }
