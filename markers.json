@@ -12,6 +12,19 @@
         "documented": "NO",
         "identified": "YES",
         "fragile": "NO"
+      },
+      {
+        "lat": "47.983875",
+        "lng": "-122.2483837",
+        "id": "EVERETT01",
+        "name": "Al-Ind-Esk-A-Sea",
+        "alias": "AlIndEskASea",
+        "desc": "336 foot private cruise ship",
+        "depth": "-69.069",
+        "explored": "YES",
+        "documented": "YES",
+        "identified": "YES",
+        "fragile": "NO"
       }
     ]
 }
