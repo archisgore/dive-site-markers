@@ -1,0 +1,17 @@
+{
+    "wpt": [
+      {
+        "lat": "47.5858",
+        "lng": "-122.375",
+        "id": "ALKI01",
+        "name": "HoneyBear",
+        "alias": "Cove2",
+        "desc": "The most visited Wreck in the Pacific Northwest.",
+        "depth": "-10.00",
+        "explored": "YES",
+        "documented": "NO",
+        "identified": "YES",
+        "fragile": "NO"
+      }
+    ]
+}
