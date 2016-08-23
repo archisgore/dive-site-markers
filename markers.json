@@ -16,7 +16,7 @@
       {
         "lat": "47.5573",
         "lng": "-122.4073",
-        "id": "ALKI02",
+        "id": "PUGETSOUND01",
         "name": "Alki Fishing Reef",
         "alias": "Fishing Reef",
         "desc": "An artificial reef meant for fishing. Lots of wildlife. Shallow depth. Overhead boat traffic.",
@@ -29,7 +29,7 @@
       {
         "lat": "47.402950",
         "lng": "-122.524133",
-        "id": "VASHON01",
+        "id": "PUGETSOUND02",
         "name": "Anna Foss Tug",
         "alias": "",
         "desc": "",
@@ -40,9 +40,22 @@
         "fragile": "NO"
       },
       {
+        "lat": "47.672945",
+        "lng": "-122.421972",
+        "id": "PUGETSOUND03",
+        "name": "Shilshole barges",
+        "alias": "",
+        "desc": "",
+        "depth": "-33.00",
+        "explored": "YES",
+        "documented": "YES",
+        "identified": "YES",
+        "fragile": "NO"
+      },
+      {
         "lat": "47.983875",
         "lng": "-122.2483837",
-        "id": "EVERETT01",
+        "id": "PUGETSOUND05",
         "name": "Al-Ind-Esk-A-Sea",
         "alias": "AlIndEskASea",
         "desc": "336 foot private cruise ship",
@@ -55,7 +68,7 @@
       {
         "lat": "48.1698036",
         "lng": "-123.706822",
-        "id": "NEAH01",
+        "id": "PUGETSOUND06",
         "name": "Diamond Knot",
         "alias": "The &apos;Knot",
         "desc": "Large Shipping vessel",
