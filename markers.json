@@ -14,6 +14,32 @@
         "fragile": "NO"
       },
       {
+        "lat": "47.5573",
+        "lng": "-122.4073",
+        "id": "ALKI02",
+        "name": "Alki Fishing Reef",
+        "alias": "Fishing Reef",
+        "desc": "An artificial reef meant for fishing. Lots of wildlife. Shallow depth. Overhead boat traffic.",
+        "depth": "-20.00",
+        "explored": "YES",
+        "documented": "YES",
+        "identified": "YES",
+        "fragile": "NO"
+      },
+      {
+        "lat": "47.402950",
+        "lng": "-122.524133",
+        "id": "VASHON01",
+        "name": "Anna Foss Tug",
+        "alias": "",
+        "desc": "",
+        "depth": "-10.00",
+        "explored": "YES",
+        "documented": "YES",
+        "identified": "YES",
+        "fragile": "NO"
+      },
+      {
         "lat": "47.983875",
         "lng": "-122.2483837",
         "id": "EVERETT01",
