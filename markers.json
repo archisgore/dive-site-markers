@@ -14,19 +14,6 @@
             "alias": "Cove2"
         },
         {
-            "id": "ALKI05",
-            "name": "New Shipwreck",
-            "lat": "-90",
-            "lng": "0",
-            "explored": "NO",
-            "depth": "-10000",
-            "desc": "This wreck was added with the add button. It is useless until you fill it in with something.",
-            "documented": "NO",
-            "identified": "NO",
-            "fragile": "YES",
-            "alias": "Nameless Wreck"
-        },
-        {
             "id": "LU001",
             "name": "Unknown-LU001",
             "lat": "47.652550",
