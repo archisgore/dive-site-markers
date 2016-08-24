@@ -14,19 +14,6 @@
             "alias": "<input id=\"edt_10_markersTable\" type=\"text\" class=\"ezInputEditor\" data-ez-col-index=\"10\">"
         },
         {
-            "id": "ALKI01",
-            "name": "HoneyBear",
-            "lat": "47.5858",
-            "lng": "-122.375",
-            "explored": "YES",
-            "depth": "-10.00",
-            "desc": "The most visited Wreck in the Pacific Northwest.",
-            "documented": "NO",
-            "identified": "YES",
-            "fragile": "NO",
-            "alias": "Cove2"
-        },
-        {
             "id": "LC001",
             "name": "Steele Car",
             "lat": "48.0568",
@@ -38,6 +25,19 @@
             "identified": "YES",
             "fragile": "YES",
             "alias": "Steele Dodge/Sherman Wreck"
+        },
+        {
+            "id": "LC002",
+            "name": "Warren Car",
+            "lat": "48.0592",
+            "lng": "-123.8849",
+            "explored": "YES",
+            "depth": "-50",
+            "desc": "This wreck is a gravesite, and requires a permit from the Park Rangers.",
+            "documented": "YES",
+            "identified": "YES",
+            "fragile": "YES",
+            "alias": "Warren Wreck"
         },
         {
             "id": "LU001",
