@@ -1,6 +1,19 @@
 {
     "wpt": [
         {
+            "id": "<INPUT ID=\"EDT_0_MARKERSTABLE\" TYPE=\"TEXT\" CLASS=\"EZINPUTEDITOR\" DATA-EZ-COL-INDEX=\"0\">",
+            "name": "<input id=\"edt_1_markersTable\" type=\"text\" class=\"ezInputEditor\" data-ez-col-index=\"1\">",
+            "lat": "<input id=\"edt_2_markersTable\" type=\"text\" class=\"ezInputEditor\" data-ez-col-index=\"2\">",
+            "lng": "<input id=\"edt_3_markersTable\" type=\"text\" class=\"ezInputEditor\" data-ez-col-index=\"3\">",
+            "explored": "<select id=\"edt_4_markersTable\" class=\"ezSelectEditor\" data-ez-col-index=\"4\" title=\"Select whether explored\" data-ez-slc-text=\"YES\" data-ez-slc-value=\"YES\"><option value=\"YES\">YES</option><option value=\"NO\">NO</option></select>",
+            "depth": "<input id=\"edt_5_markersTable\" type=\"text\" class=\"ezInputEditor\" data-ez-col-index=\"5\">",
+            "desc": "<textarea id=\"edt_6_markersTable\" class=\"ezTextareaEditor\" data-ez-col-index=\"6\"></textarea>",
+            "documented": "<select id=\"edt_7_markersTable\" class=\"ezSelectEditor\" data-ez-col-index=\"7\" title=\"Select whether documented\" data-ez-slc-text=\"YES\" data-ez-slc-value=\"YES\"><option value=\"NO\">NO</option><option value=\"YES\">YES</option></select>",
+            "identified": "<select id=\"edt_8_markersTable\" class=\"ezSelectEditor\" data-ez-col-index=\"8\" title=\"Select whether identified\" data-ez-slc-text=\"YES\" data-ez-slc-value=\"YES\"><option value=\"YES\">YES</option><option value=\"NO\">NO</option></select>",
+            "fragile": "<select id=\"edt_9_markersTable\" class=\"ezSelectEditor\" data-ez-col-index=\"9\" title=\"Select whether fragile\"><option value=\"NO\">NO</option><option value=\"YES\">YES</option></select>",
+            "alias": "<input id=\"edt_10_markersTable\" type=\"text\" class=\"ezInputEditor\" data-ez-col-index=\"10\">"
+        },
+        {
             "id": "ALKI01",
             "name": "HoneyBear",
             "lat": "47.5858",
