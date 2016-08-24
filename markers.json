@@ -4913,6 +4913,19 @@
             "identified": "YES",
             "fragile": "NO",
             "alias": "The 'Knot"
+        },
+        {
+            "id": "PUGETSOUND07",
+            "name": "Four Mile Rock Barges",
+            "lat": "47.64",
+            "lng": "-122.42833333333333",
+            "explored": "YES",
+            "depth": "-25",
+            "desc": "This wreck was added with the add button. It is useless until you fill it in with something.",
+            "documented": "YES",
+            "identified": "YES",
+            "fragile": "NO",
+            "alias": "Nameless Wreck"
         }
     ]
 }
