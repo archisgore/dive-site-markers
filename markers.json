@@ -1712,19 +1712,6 @@
         "fragile": "NO"
       },
       {
-        "lat": "47.675606",
-        "lng": "-122.227036",
-        "id": "LW231",
-        "name": "Unknown-LW231",
-        "alias": "Unknown-LW231",
-        "desc": "Three hard but low returns (One is probable log)",
-        "depth": "-52.50",
-        "explored": "NO",
-        "documented": "NO",
-        "identified": "NO",
-        "fragile": "NO"
-      },
-      {
         "lat": "47.674976",
         "lng": "-122.223366",
         "id": "LW232",
