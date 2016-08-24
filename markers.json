@@ -4850,6 +4850,19 @@
             "alias": "Unknown-LW91"
         },
         {
+            "id": "PUGETSOUND007",
+            "name": "Alaska Reefer",
+            "lat": "48.069,",
+            "lng": " -122.744",
+            "explored": "YES",
+            "depth": "-18",
+            "desc": "175' long wood hulled ship.",
+            "documented": "YES",
+            "identified": "YES",
+            "fragile": "NO",
+            "alias": "Nameless Wreck"
+        },
+        {
             "id": "PUGETSOUND01",
             "name": "Alki Fishing Reef",
             "lat": "47.5573",
