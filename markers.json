@@ -1,17 +1,17 @@
 {
     "wpt": [
         {
-            "id": "ALKI01",
-            "name": "HoneyBear",
-            "lat": "47.5858",
-            "lng": "-122.375",
-            "explored": "YES",
-            "depth": "-10.00",
-            "desc": "The most visited Wreck in the Pacific Northwest.",
-            "documented": "YES",
-            "identified": "YES",
-            "fragile": "NO",
-            "alias": "Cove2"
+            "id": "<INPUT ID=\"EDT_0_MARKERSTABLE\" TYPE=\"TEXT\" CLASS=\"EZINPUTEDITOR\" DATA-EZ-COL-INDEX=\"0\"><SPAN STYLE=\"OPACITY: 1; LEFT: 91PX; TOP: 279.875PX; WIDTH: 19PX; MIN-WIDTH: 19PX; HEIGHT: 13PX; POSITION: ABSOLUTE; BORDER: NONE; DISPLAY: INLINE; VISIBILITY: VISIBLE; Z-INDEX: AUTO; BACKGROUND-IMAGE: URL(&QUOT;DATA:IMAGE/PNG;BASE64,IVBORW0KGGOAAAANSUHEUGAAABMAAAANCAYAAABLJFUNAAAACXBIWXMAAASTAAALEWEAMPWYAAABMMLDQ1BQAG90B3NOB3AGSUNDIHBYB2ZPBGUAAHJARZG9SSNQGIAF04QCQXAJBSLBQVZEN61J0PYIONQOKMRRKKMVBXI4OF508IA8CACXR0HVOOIGOHKJBOI4ODGECU4I+EZP9W4VL3ZQWPE6FRCXB6PCMQDNYZCK5CWJ0ZQBYJCW2UV3TWHYILF8RMD7MWLGADXR+F3+XMYQJQU+GC1MLSMIDSA7S9QCUATC5EHBEFEAA/ACNOG7WBLWPGGCPPIXWDFHFIN4BDXHGMXQAHCTYL3ATERCARQLPTAHWWMRN1QTLVSYILFYD1XANSRLVP4WRHDMYFUGVPUQ3Z7WX0OGPZ//JYXIWDNBDGIQC5M6Q0LPZON3D8TD73FDMB4HL4CP2ZRB/4DRNVHS1TNYESXFWI3+AVOLUD7FY+VVAAAAIGNIUK0AAHOLAACAGWAA9CUAAITRAABTXWAA6GWAADYLAAABWIPNB3GAAAECSURBVHJAPNK9K8UBFIFXD12IM8LEYLGZJCPGUFGUCULZTJRKMPQUXR+HDFIGHWWGWY0MFIUXSCBZ5DXIYJNQDVVPVNIM0+MCZ/IEU9U6TYSBNEBQJBPMOANZNGIDL4VLKCM8YCPQBGZHAT1OX1MSRFPXJTCHLDYGH5TJGYMLMYHHTKH+R6FISHYSYBPN0DVFHU5WI9OKWTOC/0AMCPQM+PD7PKMRDAJDNB5XLS97QYEM0BSL8IT9UOAHXPGLVL/WGXO5FFKOO7FWHVJTLOOILGALM8VE1D6XIFVLKP8AXTJAI8BKFEXLBUJ3SHJFIQPIYR6ZWMFAXFOLSNHM4NG/+RKADVE2MEEC7WYAAAAASUVORK5CYII=&QUOT;); BACKGROUND-SIZE: 19PX 13PX; BACKGROUND-POSITION: 0PX 0PX; BACKGROUND-REPEAT: NO-REPEAT;\"></SPAN>",
+            "name": "<input id=\"edt_1_markersTable\" type=\"text\" class=\"ezInputEditor\" data-ez-col-index=\"1\"><span style=\"opacity: 1; left: 201px; top: 279.875px; width: 19px; min-width: 19px; height: 13px; position: absolute; border: none; display: inline; visibility: visible; z-index: auto; background-image: url(&quot;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABMAAAANCAYAAABLjFUnAAAACXBIWXMAAAsTAAALEwEAmpwYAAABMmlDQ1BQaG90b3Nob3AgSUNDIHByb2ZpbGUAAHjarZG9SsNQGIaf04qCQxAJbsLBQVzEn61j0pYiONQokmRrkkMVbXI4Of508ia8CAcXR0HvoOIgOHkJboI4ODgECU4i+EzP9w4vL3zQWPE6frcxB6PcmqDnyzCK5cwj0zQBYJCW2uv3twHyIlf8RMD7MwLgadXr+F3+xmyqjQU+gc1MlSmIdSA7s9qCuATc5EhbEFeAa/aCNog7wBlWPgGcpPIXwDFhFIN4BdxhGMXQAHCTyl3AtercArQLPTaHwwMrN1qtlvSyIlFyd1xaNSrlVp4WRhdmYFUGVPuq3Z7Wx0oGPZ//JYxiWdnbDgIQC5M6q0lPzOn3D8TD73fdMb4HL4Cp2zrb/4DrNVhs1tnyEsxfwI3+AvOlUD7FY+VVAAAAIGNIUk0AAHolAACAgwAA9CUAAITRAABtXwAA6GwAADyLAAAbWIPnB3gAAAECSURBVHjapNK9K8UBFIfxD12im8LEYLgZjcpgUFgUCUlZTJRkMpqUxR+hDFIGhWwGwy0MFiUxSCbZ5DXiYjnqdvvpvnim0+mcZ/ieU9U6tySBNEbQjBpMoANZnGIdl4VLKcm8YCPqbgzhAT1ox1mSrFpxjtCHLdygH5tJgymlMYhhtKH+r6FishYsYBpN0dvFHu5wi9okWToC/0AmcpqM+pd7PKMRDajDNb5xlS97Qyem0BsL8IT9uOAhXpGLvL/wGXO5fFkOO7FwHvJtLOOilGALM8vE1d6xiFVlkP8aXTjAI8bKFeXLBuJ3shjFiQpIYR6zWMFaXFOlsnHM4Ng/+RkAdVE2mEeC7WYAAAAASUVORK5CYII=&quot;); background-size: 19px 13px; background-position: 0px 0px; background-repeat: no-repeat;\"></span>",
+            "lat": "<input id=\"edt_2_markersTable\" type=\"text\" class=\"ezInputEditor\" data-ez-col-index=\"2\">",
+            "lng": "<input id=\"edt_3_markersTable\" type=\"text\" class=\"ezInputEditor\" data-ez-col-index=\"3\">",
+            "explored": "<select id=\"edt_4_markersTable\" class=\"ezSelectEditor\" data-ez-col-index=\"4\" title=\"Select whether explored\"><option value=\"YES\">YES</option><option value=\"NO\">NO</option></select>",
+            "depth": "<input id=\"edt_5_markersTable\" type=\"text\" class=\"ezInputEditor\" data-ez-col-index=\"5\">",
+            "desc": "<textarea id=\"edt_6_markersTable\" class=\"ezTextareaEditor\" data-ez-col-index=\"6\"></textarea>",
+            "documented": "<select id=\"edt_7_markersTable\" class=\"ezSelectEditor\" data-ez-col-index=\"7\" title=\"Select whether documented\"><option value=\"YES\">YES</option><option value=\"NO\">NO</option></select>",
+            "identified": "<select id=\"edt_8_markersTable\" class=\"ezSelectEditor\" data-ez-col-index=\"8\" title=\"Select whether identified\"><option value=\"YES\">YES</option><option value=\"NO\">NO</option></select>",
+            "fragile": "<select id=\"edt_9_markersTable\" class=\"ezSelectEditor\" data-ez-col-index=\"9\" title=\"Select whether fragile\"><option value=\"NO\">NO</option><option value=\"YES\">YES</option></select>",
+            "alias": "<input id=\"edt_10_markersTable\" type=\"text\" class=\"ezInputEditor\" data-ez-col-index=\"10\">"
         },
         {
             "id": "LC001",
