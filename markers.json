@@ -4939,6 +4939,19 @@
             "identified": "YES",
             "fragile": "NO",
             "alias": "Nameless Wreck"
+        },
+        {
+            "id": "PUGETSOUND09",
+            "name": "Maury Island Barges",
+            "lat": "47.3627",
+            "lng": "-122.44025",
+            "explored": "YES",
+            "depth": "-20",
+            "desc": "",
+            "documented": "YES",
+            "identified": "YES",
+            "fragile": "NO",
+            "alias": ""
         }
     ]
 }
