@@ -1,0 +1,2252 @@
+[
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"CREMONA ST END",
+      "Name":"Cremona St",
+      "StreetName":"CREMONA",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"Contiguous with the green space by the ship canal trail, benches afford a view of the Ship Canal.",
+      "Position":{
+         "lng":-122.35525648940707,
+         "lat":47.64995051016027
+      }
+   },
+   {
+      "Access":"VACATED",
+      "AccessCode":"A",
+      "CommonName":"GALER ST END",
+      "Name":"Galer St",
+      "StreetName":"GALER",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"A vegetated slope to the water, in need of renewed landscaping and seating.",
+      "Position":{
+         "lng":-122.34066929830223,
+         "lat":47.63270944848179
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"B",
+      "CommonName":"SW BRONSON WY END",
+      "Name":"SW Bronson Way",
+      "StreetName":"BRONSON",
+      "StreetType":"WY",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"Ample benches provide an opportunity to relax with spectacular views of the city.",
+      "Position":{
+         "lng":-122.37566473498605,
+         "lat":47.58643312169113
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"SW BARTON ST END",
+      "Name":"SW Barton St",
+      "StreetName":"BARTON ",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"Tucked in next to the Fauntleroy ferry terminal, this is a great restored site with access to a sandy shore.",
+      "Position":{
+         "lng":-122.39405892526703,
+         "lat":47.523702450337964
+      }
+   },
+   {
+      "Access":"INDUSTRIAL",
+      "AccessCode":"B",
+      "CommonName":"NW 40TH ST END",
+      "Name":"NW 40th St",
+      "StreetName":"40TH",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.36579004086175,
+         "lat":47.656617864753144
+      }
+   },
+   {
+      "Access":"INDUSTRIAL",
+      "AccessCode":"C",
+      "CommonName":"CHELAN AVE SW E END",
+      "Name":"Chelan Ave SW E",
+      "StreetName":"CHELAN",
+      "StreetType":"AVE",
+      "StreetSufix":"SW",
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.35824761980378,
+         "lat":47.573519266208024
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"BERTONA ST END",
+      "Name":"Bertona St",
+      "StreetName":"BERTONA",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"Contiguous with the green space by the ship canal trail, a bench provides a nice stopping point along the trail.",
+      "Position":{
+         "lng":-122.35703982136856,
+         "lat":47.650806725154496
+      }
+   },
+   {
+      "Access":"UNIMPROVED RIGHT OF WAY",
+      "AccessCode":"B",
+      "CommonName":"W DRAVUS ST END",
+      "Name":"W Dravus St",
+      "StreetName":"DRAVUS",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.41718855141008,
+         "lat":47.648988329138035
+      }
+   },
+   {
+      "Access":"VACATED",
+      "AccessCode":"A",
+      "CommonName":"15TH AVE NW END",
+      "Name":"15th Ave NW",
+      "StreetName":"15TH",
+      "StreetType":"AVE",
+      "StreetSufix":"NW",
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.37627133634923,
+         "lat":47.66161060931475
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"30TH AVE W END",
+      "Name":"30th Ave W",
+      "StreetName":"30TH",
+      "StreetType":"AVE",
+      "StreetSufix":"W",
+      "Status":"Worth a visit",
+      "Description":"A bench may afford you a glimpse of Mt. Rainier and sweeping views of the water.  ",
+      "Position":{
+         "lng":-122.39527603233714,
+         "lat":47.631329759307135
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"SW ATLANTIC PL END",
+      "Name":"SW Atlantic Pl",
+      "StreetName":"ATLANTIC",
+      "StreetType":"PL",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.3819675280398,
+         "lat":47.591462769125826
+      }
+   },
+   {
+      "Access":"RESIDENTIAL",
+      "AccessCode":"D",
+      "CommonName":"48TH AVE W END",
+      "Name":"48th Ave W",
+      "StreetName":"48TH",
+      "StreetType":"AVE",
+      "StreetSufix":"W",
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.41937896535296,
+         "lat":47.65254028118824
+      }
+   },
+   {
+      "Access":"UNIMPROVED RIGHT OF WAY",
+      "AccessCode":"A",
+      "CommonName":"MC GRAW ST W END",
+      "Name":"McGraw St W",
+      "StreetName":"MC GRAW",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"A recently improved Parks Levy site with a gravel path to a picnic table and an expansive asphalt shore with great views of the puget sound",
+      "Position":{
+         "lng":-122.41227576695414,
+         "lat":47.63940782670275
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"SW SPOKANE ST B END",
+      "Name":"SW Spokane St W Harbor Island",
+      "StreetName":"SPOKANE",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":"Under the Spokane Bridge…rocky shore laden with rubble",
+      "Position":{
+         "lng":-122.35257059318269,
+         "lat":47.57178982077417
+      }
+   },
+   {
+      "Access":"RESIDENTIAL",
+      "AccessCode":"C",
+      "CommonName":"W ARMOUR ST END",
+      "Name":"W Armour St",
+      "StreetName":"ARMOUR",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.41745735915332,
+         "lat":47.64539453621592
+      }
+   },
+   {
+      "Access":"INDUSTRIAL",
+      "AccessCode":"B",
+      "CommonName":"NW 39TH ST END",
+      "Name":"NW 39th St",
+      "StreetName":"39TH",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"Not yet improved, but an interesting vantage point along the ship canal",
+      "Position":{
+         "lng":-122.36257907442071,
+         "lat":47.65466489209433
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"C",
+      "CommonName":"SW ALASKA ST W END",
+      "Name":"\nEmma Schmitz Memorial Overlook (SW Alaska St)",
+      "StreetName":"ALASKA",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"A bench may be your only clue that you've found the site.  Take a seat and enjoy the ocean.  If you'd like to help improve this site, contact the shoreline street end program for more information.",
+      "Position":{
+         "lng":-122.40419344185827,
+         "lat":47.5613589829089
+      }
+   },
+   {
+      "Access":"VACATED",
+      "AccessCode":"B",
+      "CommonName":"S OREGON ST END",
+      "Name":"S Oregon St",
+      "StreetName":"OREGON",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"This site was recently improved, as part of the Parks Levy, with a picnic table.  Very tricky to get to, it provides a unqiue access point to an otherwise industrial area.  It still yearns for shoreline plantings!",
+      "Position":{
+         "lng":-122.34514457003812,
+         "lat":47.5635225328474
+      }
+   },
+   {
+      "Access":"VACATED",
+      "AccessCode":"B",
+      "CommonName":"CHELAN AVE SW W END",
+      "Name":"Chelan Ave SW W",
+      "StreetName":"CHELAN",
+      "StreetType":"AV",
+      "StreetSufix":"SW",
+      "Status":"No public access",
+      "Description":null,
+      "Position":{
+         "lng":-122.35616793056037,
+         "lat":47.574632566589344
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"SW SPOKANE W END",
+      "Name":"Charles Richy S. Viewpoint (SW Spokane W)",
+      "StreetName":"SPOKANE",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"A concrete pad offers a viewing platform.  This site could use some improvements:  Contact the shoreline street end program for more information about how you can help.",
+      "Position":{
+         "lng":-122.41353231351691,
+         "lat":47.57266563023535
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"SW ANDOVER ST END",
+      "Name":"Andover Place (SW Andover St)",
+      "StreetName":"ANDOVER",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"A winding path to a small beach area makes this otherwise hidden shore access a gem.",
+      "Position":{
+         "lng":-122.40977748785828,
+         "lat":47.56891287701822
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"BATTERY ST END",
+      "Name":"Battery St",
+      "StreetName":"BATTERY",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"There's nothing distinctive about the site yet--set above the water along the sidewalk, but stop by for a beautiful view of the water.",
+      "Position":{
+         "lng":-122.35013402169015,
+         "lat":47.61264786015724
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"W SHERIDAN ST END",
+      "Name":"W Sheridan St",
+      "StreetName":"SHERIDAN",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"Not currently improved, but a nice access point to the shore",
+      "Position":{
+         "lng":-122.40807799274278,
+         "lat":47.66989662285022
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"SW SPOKANE ST A END",
+      "Name":"SW Spokane St W",
+      "StreetName":"SPOKANE",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":"This is a Blue Field ecological restoration site . ",
+      "Position":{
+         "lng":-122.35485643459651,
+         "lat":47.57130719916293
+      }
+   },
+   {
+      "Access":"UNIMPROVED RIGHT OF WAY",
+      "AccessCode":"C",
+      "CommonName":"11TH AVE NW END",
+      "Name":"11th Ave NW",
+      "StreetName":"11TH",
+      "StreetType":"AVE",
+      "StreetSufix":"NW",
+      "Status":"Worth a visit",
+      "Description":"Currently not much more than an asphalt lookout, but stay tuned for improvements within the next year.",
+      "Position":{
+         "lng":-122.37027089178042,
+         "lat":47.65971343992831
+      }
+   },
+   {
+      "Access":"RESIDENTIAL",
+      "AccessCode":"B",
+      "CommonName":"47TH AVE W END",
+      "Name":"47th Ave W",
+      "StreetName":"47TH",
+      "StreetType":"AVE",
+      "StreetSufix":"W",
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.41736431567408,
+         "lat":47.67000488161597
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS/IN WATER USE",
+      "AccessCode":"C",
+      "CommonName":"BROAD ST END",
+      "Name":"Broad St",
+      "StreetName":"BROAD",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"This street end marks the end of the Elliott Bay Trail.  Come visit the large fountain and take a stroll along the path.  ",
+      "Position":{
+         "lng":-122.35502770234048,
+         "lat":47.61540739110001
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"FLORENTIA ST END",
+      "Name":"Florentia St",
+      "StreetName":"FLORENTIA",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"Along the ship canal trail, two benches invite people to take a moment to rest and take in the activity in the water and on the path.",
+      "Position":{
+         "lng":-122.34972651550055,
+         "lat":47.647513558652605
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"SW CARROLL ST END",
+      "Name":"Weather Watch Park (SW Carroll St)",
+      "StreetName":"CARROLL",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"Come to this site for its gravel beach and its artistic seating.  ",
+      "Position":{
+         "lng":-122.40968919886299,
+         "lat":47.56786432130187
+      }
+   },
+   {
+      "Access":"RESIDENTIAL",
+      "AccessCode":"B",
+      "CommonName":"W CRAMER ST END",
+      "Name":"W Cramer St",
+      "StreetName":"CRAMER",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":"SPU pump station and fence currently precludes access",
+      "Position":{
+         "lng":-122.40842313081377,
+         "lat":47.66785065052798
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"5TH AVE N END",
+      "Name":"5th Ave N",
+      "StreetName":"5TH",
+      "StreetType":"AVE",
+      "StreetSufix":"N",
+      "Status":"Worth a visit",
+      "Description":"A recently improved site with steps down to the water and native plantings.",
+      "Position":{
+         "lng":-122.34727217553792,
+         "lat":47.64569191215318
+      }
+   },
+   {
+      "Access":"UNIMPROVED RIGHT OF WAY",
+      "AccessCode":"B",
+      "CommonName":"W RAYE ST END",
+      "Name":"W Raye St",
+      "StreetName":"RAYE",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.41673578291051,
+         "lat":47.64340545903099
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"ETRURIA ST END",
+      "Name":"Etruria St",
+      "StreetName":"ETRURIA",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"Contiguous with the green space by the ship canal trail, this site could use improved plantings and seating.",
+      "Position":{
+         "lng":-122.35129730968802,
+         "lat":47.64816988899352
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS/IN WATER USE",
+      "AccessCode":"C",
+      "CommonName":"VINE ST END",
+      "Name":"Vine St",
+      "StreetName":"VINE",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"There's nothing distinctive about the site yet--set above the water along the sidewalk, but stop by for a beautiful view of the water.",
+      "Position":{
+         "lng":-122.35222662587779,
+         "lat":47.61376184057673
+      }
+   },
+   {
+      "Access":"UNIMPROVED RIGHT OF WAY",
+      "AccessCode":"B",
+      "CommonName":"20TH AVE NW END",
+      "Name":"20th Ave NW",
+      "StreetName":"20TH",
+      "StreetType":"AVE",
+      "StreetSufix":"NW",
+      "Status":"Worth a visit",
+      "Description":"As a Parks Levy site, this site will be improved by the end of 2014.  The ecological restoration of the site will provide great habitat for local wildlife. ",
+      "Position":{
+         "lng":-122.3819419054275,
+         "lat":47.664222680055246
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"SW SPOKANE ST C END",
+      "Name":"SW Spokane St E Harbor Island",
+      "StreetName":"SPOKANE",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"Stop by while biking or walking along the Alki trail.  The site has ample seating and a few shelters.",
+      "Position":{
+         "lng":-122.34684949407102,
+         "lat":47.571669685199225
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"FAIRMONT AVE SW END",
+      "Name":"Fairmont Ave SW",
+      "StreetName":"FAIRMONT",
+      "StreetType":"AVE",
+      "StreetSufix":"SW",
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.37788801724649,
+         "lat":47.58758363272668
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"NW 60TH ST END",
+      "Name":"NW 60th St",
+      "StreetName":"60TH",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.40616474290512,
+         "lat":47.672571117655934
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"BAY ST END",
+      "Name":"Bay St",
+      "StreetName":"BAY",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.35750435625637,
+         "lat":47.61708851772434
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"S DIAGONAL ST END",
+      "Name":"S Diagonal St",
+      "StreetName":"DIAGONAL",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.34405708164206,
+         "lat":47.560507416320235
+      }
+   },
+   {
+      "Access":"VACATED",
+      "AccessCode":"B",
+      "CommonName":"S HOLGATE ST W END",
+      "Name":"S Holgate St W",
+      "StreetName":"HOLGATE",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.34231494161476,
+         "lat":47.58658460540775
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"QUEEN ANNE AVE N END",
+      "Name":"Queen Anne Ave N",
+      "StreetName":"QUEEN ANNE",
+      "StreetType":"AVE",
+      "StreetSufix":"N",
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.3577436313977,
+         "lat":47.65111999634519
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"SW BRACE POINT END",
+      "Name":"SW Brace Pt Dr",
+      "StreetName":"BRACE POINT",
+      "StreetType":"DR",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"A narrow road leads to beautiful views.  Perch yourself on driftwood and enjoy the ocean views.",
+      "Position":{
+         "lng":-122.39512874248753,
+         "lat":47.52053683073373
+      }
+   },
+   {
+      "Access":"RESIDENTIAL",
+      "AccessCode":"C",
+      "CommonName":"32ND AVE W END",
+      "Name":"32nd Ave W",
+      "StreetName":"32ND",
+      "StreetType":"AVE",
+      "StreetSufix":"W",
+      "Status":"Worth a visit",
+      "Description":"The upland portion of this site is currently occupied by an SPU facility, but don't let that stop you from visiting a wonderful beach!  The adjacent Park parks property offers an excellent access point to the water.  When the tide is out the shoreland por",
+      "Position":{
+         "lng":-122.39887418684722,
+         "lat":47.63279167282454
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS/IN WATER USE",
+      "AccessCode":"C",
+      "CommonName":"6TH AVE W END",
+      "Name":"6th Ave W",
+      "StreetName":"6TH",
+      "StreetType":"AVE",
+      "StreetSufix":"W",
+      "Status":"Worth a visit",
+      "Description":"Very close to the ship canal, this site provides nice views of a boat-filled ship canal.  Stay tuned for improvements within the next few years.",
+      "Position":{
+         "lng":-122.36401512500743,
+         "lat":47.65300909949042
+      }
+   },
+   {
+      "Access":"INDUSTRIAL",
+      "AccessCode":"B",
+      "CommonName":"6TH AVE NW END",
+      "Name":"6th Ave NW",
+      "StreetName":"6TH",
+      "StreetType":"AVE",
+      "StreetSufix":"NW",
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.36383134586717,
+         "lat":47.655361437453905
+      }
+   },
+   {
+      "Access":"VACATED",
+      "AccessCode":"A",
+      "CommonName":"SW DAKOTA ST END",
+      "Name":"SW Dakota St",
+      "StreetName":"DAKOTA",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"No public access",
+      "Description":null,
+      "Position":{
+         "lng":-122.35034543065963,
+         "lat":47.56771678292645
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"FREMONT BR END",
+      "Name":"Fremont Bridge",
+      "StreetName":"FREMONT",
+      "StreetType":"BR",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.34969678949092,
+         "lat":47.64837724994737
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"W THOMAS ST END",
+      "Name":"W Thomas St",
+      "StreetName":"THOMAS",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.36329701016868,
+         "lat":47.6210294954241
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"24TH AVE NW END",
+      "Name":"24th Ave NW",
+      "StreetName":"24TH",
+      "StreetType":"AVE",
+      "StreetSufix":"NW",
+      "Status":"Worth a visit",
+      "Description":"A public dock",
+      "Position":{
+         "lng":-122.38759058729335,
+         "lat":47.66724620897131
+      }
+   },
+   {
+      "Access":"UNIMPROVED RIGHT OF WAY",
+      "AccessCode":"A",
+      "CommonName":"34TH AVE NW END",
+      "Name":"34th Ave NW",
+      "StreetName":"34TH",
+      "StreetType":"AVE",
+      "StreetSufix":"NW",
+      "Status":"Worth a visit",
+      "Description":"A boat-inspired look out with a view of the ship canal and railroad bridge",
+      "Position":{
+         "lng":-122.40095320271175,
+         "lat":47.66766012370152
+      }
+   },
+   {
+      "Access":"RESIDENTIAL",
+      "AccessCode":"A",
+      "CommonName":"W BERTONA ST END",
+      "Name":"W Bertona St",
+      "StreetName":"BERTONA",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.41845995573745,
+         "lat":47.65090731503412
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"14TH AVE NW END",
+      "Name":"14th Ave NW",
+      "StreetName":"14TH",
+      "StreetType":"AVE",
+      "StreetSufix":"NW",
+      "Status":"Worth a visit",
+      "Description":"A public boat launch and dock",
+      "Position":{
+         "lng":-122.37370109405263,
+         "lat":47.66126342366255
+      }
+   },
+   {
+      "Access":"IN WATER USE",
+      "AccessCode":"C",
+      "CommonName":"28TH AVE NW END",
+      "Name":"28th Ave NW",
+      "StreetName":"28TH",
+      "StreetType":"AVE",
+      "StreetSufix":"NW",
+      "Status":"Worth a visit",
+      "Description":"Access to a gradual shore, this site will be improved with enhanced habitat, seating, and a kayak launch by the end of 2014.  ",
+      "Position":{
+         "lng":-122.39295879639432,
+         "lat":47.66792403395456
+      }
+   },
+   {
+      "Access":"RESIDENTIAL",
+      "AccessCode":"B",
+      "CommonName":"36TH AVE NW END",
+      "Name":"36th Ave NW",
+      "StreetName":"36TH",
+      "StreetType":"AVE",
+      "StreetSufix":"NW",
+      "Status":"Worth a visit",
+      "Description":"A recently improved lookout with a picnic table and a bench",
+      "Position":{
+         "lng":-122.40365567373914,
+         "lat":47.66901464741318
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"GILMAN AVE W END",
+      "Name":"Gilman Ave W",
+      "StreetName":"GILMAN",
+      "StreetType":"AVE",
+      "StreetSufix":"W",
+      "Status":"Worth a visit",
+      "Description":"At the edge of a large open space, this site's bench provides a nice resting point",
+      "Position":{
+         "lng":-122.4026347329448,
+         "lat":47.666493730612814
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"3RD AVE W END",
+      "Name":"West Ewing Mini Park (3rd Ave W)",
+      "StreetName":"3RD",
+      "StreetType":"AVE",
+      "StreetSufix":"W",
+      "Status":"Worth a visit",
+      "Description":"A great strip of grass with seating by the waterfront--a perfect lunch spot to watch the boats go by.",
+      "Position":{
+         "lng":-122.36089348372208,
+         "lat":47.65267657183142
+      }
+   },
+   {
+      "Access":"VACATED",
+      "AccessCode":"A",
+      "CommonName":"S FOREST ST END",
+      "Name":"S Forest St",
+      "StreetName":"FOREST",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"No public access",
+      "Description":null,
+      "Position":{
+         "lng":-122.3401481740603,
+         "lat":47.57819964070629
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"SW EDMUNDS ST END",
+      "Name":"SW Edmunds St",
+      "StreetName":"EDMUNDS",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"Like SW Alaska, this site is nestled within Herring's House Park, this site isn't particularly distinctive.  The large park as a whole is definitely worth a visit!  Come check out an interesting view of the Duwamish.",
+      "Position":{
+         "lng":-122.35032812964772,
+         "lat":47.55980316651031
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"NW 57TH ST END",
+      "Name":"NW 57th St",
+      "StreetName":"57TH",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"Not currently improved, but a nice access point to the shore",
+      "Position":{
+         "lng":-122.40523781976411,
+         "lat":47.67076585749811
+      }
+   },
+   {
+      "Access":"UNIMPROVED RIGHT OF WAY",
+      "AccessCode":"A",
+      "CommonName":"W BARRETT ST END",
+      "Name":"W Barrett St",
+      "StreetName":"BARRETT",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.41709704293143,
+         "lat":47.64729263299327
+      }
+   },
+   {
+      "Access":"VACATED",
+      "AccessCode":"B",
+      "CommonName":"SW IDAHO ST END",
+      "Name":"SW Idaho St",
+      "StreetName":"IDAHO",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"No public access",
+      "Description":null,
+      "Position":{
+         "lng":-122.34998300679038,
+         "lat":47.56532915363357
+      }
+   },
+   {
+      "Access":"IN WATER USE",
+      "AccessCode":"C",
+      "CommonName":"MC GRAW ST E END",
+      "Name":"McGraw St",
+      "StreetName":"MC GRAW",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.34218554877862,
+         "lat":47.64127263743373
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"SW HINDS ST END",
+      "Name":"SW Hinds St",
+      "StreetName":"HINDS",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.36167616987618,
+         "lat":47.57368689137752
+      }
+   },
+   {
+      "Access":"VACATED",
+      "AccessCode":"B",
+      "CommonName":"SW ALASKA ST E END",
+      "Name":"SW Alaska St E",
+      "StreetName":"ALASKA",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"Nestled within Herring's House Park, this site isn't particularly distinctive.  The large park as a whole is definitely worth a visit!  Come check out an interesting view of the Duwamish.",
+      "Position":{
+         "lng":-122.3503818031757,
+         "lat":47.56156581712128
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"VIRGINIA ST END",
+      "Name":"Virginia St",
+      "StreetName":"VIRGINIA",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":"Under construction",
+      "Position":{
+         "lng":-122.34503873669877,
+         "lat":47.60966633345561
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS/IN WATER USE",
+      "AccessCode":"C",
+      "CommonName":"UNIVERSITY ST END",
+      "Name":"University St",
+      "StreetName":"UNIVERSITY",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":"Under construction",
+      "Position":{
+         "lng":-122.34035921259473,
+         "lat":47.606290982550036
+      }
+   },
+   {
+      "Access":"IN WATER USE",
+      "AccessCode":"C",
+      "CommonName":"E ALLISON ST E END",
+      "Name":"E Allison St",
+      "StreetName":"ALLISON",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.31770674415147,
+         "lat":47.64914948760088
+      }
+   },
+   {
+      "Access":"RESIDENTIAL",
+      "AccessCode":"B",
+      "CommonName":"NE 31ST ST W END",
+      "Name":"NE 31st St W",
+      "StreetName":"31ST",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"In need of improvement, but provides access to the shore behind a wall of vegetation",
+      "Position":{
+         "lng":-122.27815192605948,
+         "lat":47.64998156894569
+      }
+   },
+   {
+      "Access":"VACATED",
+      "AccessCode":"A",
+      "CommonName":"GALER ST END",
+      "Name":"Galer St",
+      "StreetName":"GALER",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"A vegetated slope to the water, in need of renewed landscaping and seating.",
+      "Position":{
+         "lng":-122.34066929830223,
+         "lat":47.63270944848179
+      }
+   },
+   {
+      "Access":"RESIDENTIAL",
+      "AccessCode":"B",
+      "CommonName":"E PINE ST END",
+      "Name":"E Pine St",
+      "StreetName":"PINE",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"Adjacent to a utility, stairs lead to a tiered lawn above the water.",
+      "Position":{
+         "lng":-122.28130814515933,
+         "lat":47.61566911883335
+      }
+   },
+   {
+      "Access":"IN WATER USE",
+      "AccessCode":"B",
+      "CommonName":"E LOIUSA ST END",
+      "Name":"E Louisa St",
+      "StreetName":"LOUISA",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"Come play bocce ball or sit by the water.  Open views of the water with a gradual grade to the water.",
+      "Position":{
+         "lng":-122.32949501842093,
+         "lat":47.64246979015735
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"S BRIGHTON ST END",
+      "Name":"S Brighton St",
+      "StreetName":"BRIGHTON",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"Mostly unimproved behind the crash barrier, but access to a vegetated section of Lake Washington and adjacent to Martha Washington Park.",
+      "Position":{
+         "lng":-122.26043324341896,
+         "lat":47.54188209611229
+      }
+   },
+   {
+      "Access":"IN WATER USE",
+      "AccessCode":"C",
+      "CommonName":"E EDGAR ST W END",
+      "Name":"E Edgar St W",
+      "StreetName":"EDGAR",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.32724138842066,
+         "lat":47.644901711066865
+      }
+   },
+   {
+      "Access":"VACATED",
+      "AccessCode":"B",
+      "CommonName":"S CHICAGO ST END",
+      "Name":"S Chicago St",
+      "StreetName":"CHICAGO",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"No public access",
+      "Description":"A colorful plaza and seating area designed by the Port.",
+      "Position":{
+         "lng":-122.32149055964985,
+         "lat":47.53304121628571
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"C",
+      "CommonName":"S EDDY ST END",
+      "Name":"S Eddy St",
+      "StreetName":"EDDY",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"Currently unimproved as a park, but a nice view of the east side of Lake Washington.  ",
+      "Position":{
+         "lng":-122.25761988903446,
+         "lat":47.545306944457906
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"S JUDKINS ST END",
+      "Name":"S Judkins St",
+      "StreetName":"JUDKINS",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"While this site is in need of improvements, there are nice views of Lake Washington.",
+      "Position":{
+         "lng":-122.28681928238962,
+         "lat":47.5925744496258
+      }
+   },
+   {
+      "Access":"IN WATER USE",
+      "AccessCode":"C",
+      "CommonName":"E MARTIN ST E END",
+      "Name":"E Martin St E",
+      "StreetName":"MARTIN",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.31915155060372,
+         "lat":47.650720039501124
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"S KING ST END",
+      "Name":"S King St",
+      "StreetName":"KING",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"Currently unimproved, the site is heavily vegetated, but offers a quiet place to take in the views.",
+      "Position":{
+         "lng":-122.28647414867909,
+         "lat":47.59830231357623
+      }
+   },
+   {
+      "Access":"RESIDENTIAL",
+      "AccessCode":"B",
+      "CommonName":"S MASSACHUSETTS END",
+      "Name":"S Massachusetts",
+      "StreetName":"MASSACHUSETTS",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.28555567418857,
+         "lat":47.588008168919885
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"E HAMLIN ST W END",
+      "Name":"E Hamlin St W",
+      "StreetName":"HAMLIN",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"Neighborhood stewards maintain the wonderful landscaping, and multi-tiered seating areas.  Two picnic benches and a bench near the water afford plenty of lookout spots.",
+      "Position":{
+         "lng":-122.32721182951352,
+         "lat":47.64601828514026
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"S MAIN ST END",
+      "Name":"S Main St",
+      "StreetName":"MAIN",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"A bench overlooking the water.",
+      "Position":{
+         "lng":-122.2855443429284,
+         "lat":47.600443880913446
+      }
+   },
+   {
+      "Access":"UNIMPROVED RIGHT OF WAY",
+      "AccessCode":"A",
+      "CommonName":"S ATLANTIC ST END",
+      "Name":"S Atlantic St",
+      "StreetName":"ATLANTIC",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.28545627773056,
+         "lat":47.589267851513426
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"37TH AVE E END",
+      "Name":"37th Ave E",
+      "StreetName":"37TH",
+      "StreetType":"AVE",
+      "StreetSufix":"E",
+      "Status":"Worth a visit",
+      "Description":"A forested site with a gravel path leading to a lookout with a bench.",
+      "Position":{
+         "lng":-122.28534070258762,
+         "lat":47.64310799411069
+      }
+   },
+   {
+      "Access":"UNIMPROVED RIGHT OF WAY",
+      "AccessCode":"C",
+      "CommonName":"E ROANOKE ST E END",
+      "Name":"E Roanoke St E",
+      "StreetName":"ROANOKE",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.31562909544877,
+         "lat":47.6436007392239
+      }
+   },
+   {
+      "Access":"IN WATER USE",
+      "AccessCode":"C",
+      "CommonName":"E BOSTON ST END",
+      "Name":"E Boston St",
+      "StreetName":"BOSTON",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.32940521045887,
+         "lat":47.63861184207926
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"E EDGAR ST E END",
+      "Name":"E Edgar St E",
+      "StreetName":"EDGAR",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"A nicely landscaped path to inlaid stones and views of the water.",
+      "Position":{
+         "lng":-122.31650194955772,
+         "lat":47.644875190908834
+      }
+   },
+   {
+      "Access":"VACATED",
+      "AccessCode":"A",
+      "CommonName":"S MONROE ST END",
+      "Name":"S Monroe St",
+      "StreetName":"MONROE",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"No public access",
+      "Description":null,
+      "Position":{
+         "lng":-122.3190754596538,
+         "lat":47.53163777976428
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"S FONTANELLE ST END",
+      "Name":"5th Ave S",
+      "StreetName":"FONTANELLE",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.32792804462643,
+         "lat":47.53708987948514
+      }
+   },
+   {
+      "Access":"RESIDENTIAL",
+      "AccessCode":"B",
+      "CommonName":"E MERCER ST END",
+      "Name":"E Mercer St",
+      "StreetName":"MERCER",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.282335470769,
+         "lat":47.62579554781513
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS/RESIDENTIAL USE",
+      "AccessCode":"C",
+      "CommonName":"S WILLOW ST END",
+      "Name":"S Willow St",
+      "StreetName":"WILLOW",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"A narrow, vegetated path leads to two benches under the canopy of a black locust tree.  A near-term improvement will facilitate access to the small, pebble beach.  ",
+      "Position":{
+         "lng":-122.26164299294011,
+         "lat":47.54105200022187
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS/RESIDENTIAL USE",
+      "AccessCode":"A",
+      "CommonName":"S CHARLES ST END",
+      "Name":"S Charles St",
+      "StreetName":"CHARLES",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"A quiet, remote site with a an open lawn, and stone pathway to a private feeling bench.",
+      "Position":{
+         "lng":-122.28717274070108,
+         "lat":47.594942519285325
+      }
+   },
+   {
+      "Access":"UNIMPROVED RIGHT OF WAY",
+      "AccessCode":"B",
+      "CommonName":"NE 32ND ST END",
+      "Name":"NE 32nd St",
+      "StreetName":"32ND",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.27902438973973,
+         "lat":47.651493284948714
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"S PORTLAND ST END",
+      "Name":"S Portland St",
+      "StreetName":"PORTLAND",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":null,
+      "Position":{
+         "lng":-122.32277301427942,
+         "lat":47.53378277420342
+      }
+   },
+   {
+      "Access":"INDUSTRIAL",
+      "AccessCode":"B",
+      "CommonName":"S RIVERSIDE DR S END",
+      "Name":"S Riverside Dr S",
+      "StreetName":"RIVERSIDE",
+      "StreetType":"DR",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":"The site has reached 100% design, but awaits construction.",
+      "Position":{
+         "lng":-122.32346127037513,
+         "lat":47.534221024820994
+      }
+   },
+   {
+      "Access":"IN WATER USE",
+      "AccessCode":"C",
+      "CommonName":"E NEWTON ST END",
+      "Name":"Terry Petus Park (E Newton St)",
+      "StreetName":"NEWTON",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"Shoreline access and a public float.  Tie-up time is limited to 2 hours.",
+      "Position":{
+         "lng":-122.32923779258849,
+         "lat":47.63714905183696
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"S KENYON ST END",
+      "Name":"S Kenyon St",
+      "StreetName":"KENYON",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":"Adjacent to Duwamish Waterway Park, this stretch of green could use some TLC.",
+      "Position":{
+         "lng":-122.32039817123648,
+         "lat":47.53228890972079
+      }
+   },
+   {
+      "Access":"IN WATER USE",
+      "AccessCode":"C",
+      "CommonName":"UNIVERSITY BR S END",
+      "Name":"University Bridge S",
+      "StreetName":"UNIVERSITY",
+      "StreetType":"BR",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.32090326667115,
+         "lat":47.652456276640805
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"5TH AVE N END",
+      "Name":"5th Ave N",
+      "StreetName":"5TH",
+      "StreetType":"AVE",
+      "StreetSufix":"N",
+      "Status":"Worth a visit",
+      "Description":"A recently improved site with steps down to the water and native plantings.",
+      "Position":{
+         "lng":-122.34727217553792,
+         "lat":47.64569191215318
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"S JACKSON ST END",
+      "Name":"S Jackson St",
+      "StreetName":"JACKSON",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.28606632128728,
+         "lat":47.599507594768454
+      }
+   },
+   {
+      "Access":"RESIDENTIAL",
+      "AccessCode":"B",
+      "CommonName":"S HOLGATE ST E END",
+      "Name":"S Holgate St",
+      "StreetName":"HOLGATE",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.28593869418668,
+         "lat":47.586882547718545
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS/RESIDENTIAL USE",
+      "AccessCode":"C",
+      "CommonName":"S DEARBORN ST END",
+      "Name":"S Dearborn St",
+      "StreetName":"DEARBORN",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"An open lawn with a bench overlooking the water.",
+      "Position":{
+         "lng":-122.28693808222154,
+         "lat":47.596123074997195
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS/IN WATER USE",
+      "AccessCode":"C",
+      "CommonName":"E SHELBY ST END",
+      "Name":"E Shelby St",
+      "StreetName":"SHELBY",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"A concrete pathway that leads directly into the water, this site could serve as an informal kayak launch.",
+      "Position":{
+         "lng":-122.31637408308157,
+         "lat":47.647293308275096
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS/IN WATER USE",
+      "AccessCode":"C",
+      "CommonName":"E HAMLIN ST E END",
+      "Name":"E Hamlin St E",
+      "StreetName":"HAMLIN",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"This site is largely comprised of stones and dense vegetation.  If you'd like to help improve this site, contact the shoreline street end program for more information.",
+      "Position":{
+         "lng":-122.31632071263923,
+         "lat":47.64599709898377
+      }
+   },
+   {
+      "Access":"RESIDENTIAL",
+      "AccessCode":"C",
+      "CommonName":"NE 85TH ST END",
+      "Name":"NE 85th St",
+      "StreetName":"85TH",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.26673257292809,
+         "lat":47.690556061160834
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"FUHRMAN AVE E END",
+      "Name":"Fuhrman Ave E",
+      "StreetName":"FUHRMAN",
+      "StreetType":"AVE",
+      "StreetSufix":"E",
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.32251959329739,
+         "lat":47.65267584909603
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"S NORMAN ST END",
+      "Name":"S Norman St",
+      "StreetName":"NORMAN",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"A nice place to relax with a bench overlooking the water.",
+      "Position":{
+         "lng":-122.28746059205247,
+         "lat":47.59381733550501
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"E HOWELL ST END",
+      "Name":"Howell Park (E Howell St)",
+      "StreetName":"HOWELL",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"A path through the woods leads to a secluded site with an open beach and seating.  A quiet, well-canopied site.  ",
+      "Position":{
+         "lng":-122.28043032049627,
+         "lat":47.618065574622676
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"S WASHINGTON ST END",
+      "Name":"S Washington St",
+      "StreetName":"WASHINGTON",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":"Under construction",
+      "Position":{
+         "lng":-122.33607746086402,
+         "lat":47.60140562814601
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"YALE AVE N END",
+      "Name":"Yale Ave N",
+      "StreetName":"YALE",
+      "StreetType":"AVE",
+      "StreetSufix":"N",
+      "Status":"Worth a visit",
+      "Description":"An open landscaped area with a bench overlooking the boat-filled water.",
+      "Position":{
+         "lng":-122.33075448996068,
+         "lat":47.63020459139429
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"S DIAGONAL ST END",
+      "Name":"S Diagonal St",
+      "StreetName":"DIAGONAL",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.34405708164206,
+         "lat":47.560507416320235
+      }
+   },
+   {
+      "Access":"VACATED",
+      "AccessCode":"B",
+      "CommonName":"S HOLGATE ST W END",
+      "Name":"S Holgate St W",
+      "StreetName":"HOLGATE",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.34231494161476,
+         "lat":47.58658460540775
+      }
+   },
+   {
+      "Access":"IN WATER USE",
+      "AccessCode":"C",
+      "CommonName":"BLAINE ST END",
+      "Name":"Blaine St",
+      "StreetName":"BLAINE",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"A concrete pad with a fence overlooks the water.",
+      "Position":{
+         "lng":-122.33982864953808,
+         "lat":47.63535068729129
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"C",
+      "CommonName":"LATONA AVE NE END",
+      "Name":"Latona Ave NE",
+      "StreetName":"LATONA",
+      "StreetType":"AVE",
+      "StreetSufix":"NE",
+      "Status":"Worth a visit",
+      "Description":"A concrete platform with views of the water",
+      "Position":{
+         "lng":-122.32572965389254,
+         "lat":47.65375605892328
+      }
+   },
+   {
+      "Access":"UNIMPROVED RIGHT OF WAY",
+      "AccessCode":"A",
+      "CommonName":"NE 130TH ST END",
+      "Name":"NE 130 St",
+      "StreetName":"130TH",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"Hop off the Burke-Gilman path and enjoy this sand beach cove.  A great place to launch kayaks.  The official legal status of the site will be resolved within the next few years.",
+      "Position":{
+         "lng":-122.28109347157012,
+         "lat":47.723287800356985
+      }
+   },
+   {
+      "Access":"INDUSTRIAL",
+      "AccessCode":"B",
+      "CommonName":"7TH AVE S END",
+      "Name":"7th Ave S",
+      "StreetName":"7TH",
+      "StreetType":"AVE",
+      "StreetSufix":"S",
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.32522713794606,
+         "lat":47.53471263541576
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS/RESIDENTIAL USE",
+      "AccessCode":"A",
+      "CommonName":"S IRVING ST END",
+      "Name":"S Irving St",
+      "StreetName":"IRVING",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"Maintained as part of the park, thus open green space with vegetation and a small, open view of the water.",
+      "Position":{
+         "lng":-122.28649178295211,
+         "lat":47.59150302634595
+      }
+   },
+   {
+      "Access":"RESIDENTIAL",
+      "AccessCode":"B",
+      "CommonName":"NE 135TH ST END",
+      "Name":"NE 135 St",
+      "StreetName":"135TH",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"No public access",
+      "Description":null,
+      "Position":{
+         "lng":-122.28049426826988,
+         "lat":47.72675871001326
+      }
+   },
+   {
+      "Access":"IN WATER USE",
+      "AccessCode":"C",
+      "CommonName":"E ROANOKE ST W END",
+      "Name":"Roanoke Street Mini Park (E Roanoke St W)",
+      "StreetName":"ROANOKE",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"A wonderful mini park with ample seating in the sun or shade of a large willow tree.",
+      "Position":{
+         "lng":-122.32876299351638,
+         "lat":47.64360550314686
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"C",
+      "CommonName":"MADISON ST END",
+      "Name":"Madison St",
+      "StreetName":"MADISON",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":"Under construction",
+      "Position":{
+         "lng":-122.3388250762543,
+         "lat":47.604410841271374
+      }
+   },
+   {
+      "Access":"IN WATER USE",
+      "AccessCode":"C",
+      "CommonName":"CROCKETT ST END",
+      "Name":"Crockett St",
+      "StreetName":"CROCKETT",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"Seating in an enclosed concrete balcony overlooking the water.",
+      "Position":{
+         "lng":-122.3402109778628,
+         "lat":47.63815551097514
+      }
+   },
+   {
+      "Access":"VACATED",
+      "AccessCode":"B",
+      "CommonName":"TERRY AVE N END",
+      "Name":"Terry Ave N",
+      "StreetName":"TERRY",
+      "StreetType":"AVE",
+      "StreetSufix":"N",
+      "Status":"Worth a visit",
+      "Description":"Public access to a dock with views of the water.",
+      "Position":{
+         "lng":-122.3371119244573,
+         "lat":47.628335845737354
+      }
+   },
+   {
+      "Access":"UNIMPROVED RIGHT OF WAY",
+      "AccessCode":"A",
+      "CommonName":"NE 33RD ST END",
+      "Name":"NE 33rd St",
+      "StreetName":"33RD",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.27678367478653,
+         "lat":47.65243693649305
+      }
+   },
+   {
+      "Access":"RESIDENTIAL",
+      "AccessCode":"C",
+      "CommonName":"S WARSAW ST END",
+      "Name":"S Warsaw St",
+      "StreetName":"WARSAW",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":"Stay tuned for improvements within the next few years.",
+      "Position":{
+         "lng":-122.25862984402481,
+         "lat":47.54354030367608
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"B",
+      "CommonName":"S NORFOLK ST END",
+      "Name":"S Norfolk St",
+      "StreetName":"NORFOLK",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.25230393727529,
+         "lat":47.51533302033329
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"BROOKLYN AVE NE END",
+      "Name":"Brooklyn Ave NE",
+      "StreetName":"BROOKLYN",
+      "StreetType":"AVE",
+      "StreetSufix":"NE",
+      "Status":"Worth a visit",
+      "Description":"Within a larger green space, this site offers seating by the shore",
+      "Position":{
+         "lng":-122.31338503675308,
+         "lat":47.65137239460432
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"NE 90TH PL END",
+      "Name":"NE 90th Pl",
+      "StreetName":"90TH",
+      "StreetType":"PL",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"This site is adjacent to Matthews Beach Park.  While the park may boast large open spaces, this site provides an \"untamed\" natural experience at the shore.  Walk behind the large yellow gate to a tree lined pathway down to a wetland like shoreline.",
+      "Position":{
+         "lng":-122.2713817949898,
+         "lat":47.69428483114564
+      }
+   },
+   {
+      "Access":"GOVERNMENT USE",
+      "AccessCode":"B",
+      "CommonName":"EASTLAKE AVE NE END",
+      "Name":"Eastlake Ave NE",
+      "StreetName":"EASTLAKE",
+      "StreetType":"AVE",
+      "StreetSufix":"NE",
+      "Status":"Not yet ready for visitors",
+      "Description":"This site was selected as an SDOT capitol project.  Stay tuned for coming improvements within the next few years.  ",
+      "Position":{
+         "lng":-122.31947215129956,
+         "lat":47.65433592282997
+      }
+   },
+   {
+      "Access":"IN WATER USE",
+      "AccessCode":"B",
+      "CommonName":"E ALLISON ST W END",
+      "Name":"E Allison St W",
+      "StreetName":"ALLISON",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"Currently, a lookout from the edge of the asphalt, but stay tuned for improvements within the next few years.",
+      "Position":{
+         "lng":-122.32491674084338,
+         "lat":47.64964023868933
+      }
+   },
+   {
+      "Access":"VACATED",
+      "AccessCode":"A",
+      "CommonName":"S FOREST ST END",
+      "Name":"S Forest St",
+      "StreetName":"FOREST",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"No public access",
+      "Description":null,
+      "Position":{
+         "lng":-122.3401481740603,
+         "lat":47.57819964070629
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"E HIGHLAND DR END",
+      "Name":"E Highland Dr",
+      "StreetName":"HIGHLAND",
+      "StreetType":"DR",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"The site suffers from neglect and is a bit overgrown, but still provides access to the water.",
+      "Position":{
+         "lng":-122.27864240895777,
+         "lat":47.63014728588459
+      }
+   },
+   {
+      "Access":"UNIMPROVED RIGHT OF WAY",
+      "AccessCode":"A",
+      "CommonName":"NE 31ST ST E END",
+      "Name":"NE 31st St E",
+      "StreetName":"31ST",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.27600840809636,
+         "lat":47.65082806046493
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"C",
+      "CommonName":"E HARRISON ST END",
+      "Name":"E Harrison St",
+      "StreetName":"HARRISON",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"A path under the cover of conifers leads to a sandy beach.",
+      "Position":{
+         "lng":-122.28260162317821,
+         "lat":47.622976544058474
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"S MICHIGAN ST END",
+      "Name":"S Michigan St",
+      "StreetName":"MICHIGAN",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"Currently a boat ramp, but will undergo improvements soon.  This site is currently being designed by JA Brennan as one of SDOT's 2014-2015 capital projects.",
+      "Position":{
+         "lng":-122.3343977090656,
+         "lat":47.54353479430091
+      }
+   },
+   {
+      "Access":"RESIDENTIAL",
+      "AccessCode":"C",
+      "CommonName":"E OLIVE WY END",
+      "Name":"E Olive Way",
+      "StreetName":"OLIVE",
+      "StreetType":"WY",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"This access point appears hidden behind laurels, but offers a quiet place to take in the views.",
+      "Position":{
+         "lng":-122.28068900252073,
+         "lat":47.616884160978856
+      }
+   },
+   {
+      "Access":"IN WATER USE",
+      "AccessCode":"C",
+      "CommonName":"E MARTIN ST W END",
+      "Name":"Good Turn Park (E Martin St W)",
+      "StreetName":"MARTIN",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"Hidden within a stand of evergreens lies a great kayak launch with picnic tables, a stone garden, and a peaceful shoreline.",
+      "Position":{
+         "lng":-122.32380228952803,
+         "lat":47.651040561981716
+      }
+   },
+   {
+      "Access":"INDUSTRIAL",
+      "AccessCode":"A",
+      "CommonName":"S FRONT ST END",
+      "Name":"S Front St",
+      "StreetName":"FRONT",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.33575367741146,
+         "lat":47.544526084869375
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"E PROSPECT ST END",
+      "Name":"E Prospect St",
+      "StreetName":"PROSPECT",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"The road portion of the site leads directly to the water, a nice view, but a site in need of improvement.",
+      "Position":{
+         "lng":-122.27916565664266,
+         "lat":47.62893393368216
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"S ORCHARD ST END",
+      "Name":"S Orchard St",
+      "StreetName":"ORCHARD",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.33138156527737,
+         "lat":47.539395645932075
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"NE 43RD ST END",
+      "Name":"NE 43rd St",
+      "StreetName":"43RD",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"A series of steps leads to an intimate shoreline with informal seating",
+      "Position":{
+         "lng":-122.26835951277432,
+         "lat":47.65973331512848
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS/IN WATER USE",
+      "AccessCode":"C",
+      "CommonName":"SUNNYSIDE AVE NE END",
+      "Name":"Sunnyside Ave NE",
+      "StreetName":"SUNNYSIDE",
+      "StreetType":"AVE",
+      "StreetSufix":"NE",
+      "Status":"Worth a visit",
+      "Description":"A concrete boat launch",
+      "Position":{
+         "lng":-122.33088032749538,
+         "lat":47.65018824502428
+      }
+   },
+   {
+      "Access":"RESIDENTIAL",
+      "AccessCode":"B",
+      "CommonName":"S PERRY ST END",
+      "Name":"S Perry St",
+      "StreetName":"PERRY",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.25377952111226,
+         "lat":47.5163750989891
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"51ST AVE NE END",
+      "Name":"51st Ave NE",
+      "StreetName":"51ST",
+      "StreetType":"AVE",
+      "StreetSufix":"NE",
+      "Status":"Worth a visit",
+      "Description":"Currently, access requires walking behind the large laurels on site.  Stay tuned for improvements within the next year.",
+      "Position":{
+         "lng":-122.27207952910051,
+         "lat":47.65626266435632
+      }
+   },
+   {
+      "Access":"INDUSTRIAL/RESIDENTIAL USE",
+      "AccessCode":"C",
+      "CommonName":"S RIVERSIDE DR N END",
+      "Name":"S Riverside Dr N",
+      "StreetName":"RIVERSIDE",
+      "StreetType":"DR",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.32690492070874,
+         "lat":47.5362567289896
+      }
+   },
+   {
+      "Access":"VACATED",
+      "AccessCode":"A",
+      "CommonName":"1ST AVE SW END",
+      "Name":"1st Ave SW",
+      "StreetName":"1ST",
+      "StreetType":"AVE",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"Currently a simple bench, but will undergo improvements soon.  This site is currently being designed by JA Brennan as one of SDOT's 2014-2015 capital projects.",
+      "Position":{
+         "lng":-122.3347311047385,
+         "lat":47.541308551452374
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"E LEE ST END",
+      "Name":"E Lee St",
+      "StreetName":"LEE",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Worth a visit",
+      "Description":"Behind the wall of trees lies an open lawn and a pebble beach.",
+      "Position":{
+         "lng":-122.27724501985224,
+         "lat":47.63131862511068
+      }
+   },
+   {
+      "Access":"IN WATER USE",
+      "AccessCode":"C",
+      "CommonName":"MC GRAW ST E END",
+      "Name":"McGraw St",
+      "StreetName":"MC GRAW",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.34218554877862,
+         "lat":47.64127263743373
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"C",
+      "CommonName":"S CARVER ST END",
+      "Name":"S Carver St",
+      "StreetName":"CARVER",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":null,
+      "Position":{
+         "lng":-122.2573420865951,
+         "lat":47.519739128186075
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS",
+      "AccessCode":"A",
+      "CommonName":"VIRGINIA ST END",
+      "Name":"Virginia St",
+      "StreetName":"VIRGINIA",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":"Under construction",
+      "Position":{
+         "lng":-122.34503873669877,
+         "lat":47.60966633345561
+      }
+   },
+   {
+      "Access":"PUBLIC ACCESS/IN WATER USE",
+      "AccessCode":"C",
+      "CommonName":"UNIVERSITY ST END",
+      "Name":"University St",
+      "StreetName":"UNIVERSITY",
+      "StreetType":"ST",
+      "StreetSufix":null,
+      "Status":"Not yet ready for visitors",
+      "Description":"Under construction",
+      "Position":{
+         "lng":-122.34035921259473,
+         "lat":47.606290982550036
+      }
+   }
+]
