@@ -8,10 +8,36 @@
             "explored": "YES",
             "depth": "-10.00",
             "desc": "The most visited Wreck in the Pacific Northwest.",
-            "documented": "NO",
+            "documented": "YES",
             "identified": "YES",
             "fragile": "NO",
             "alias": "Cove2"
+        },
+        {
+            "id": "LC001",
+            "name": "Steele Car",
+            "lat": "48.0568",
+            "lng": "-123.8820",
+            "explored": "YES",
+            "depth": "-60",
+            "desc": "Dodge car, sunk in 1960 when it ran off the point. Requires a permit from the Park Rangers to dive. ",
+            "documented": "YES",
+            "identified": "YES",
+            "fragile": "YES",
+            "alias": "Steele Dodge/Sherman Wreck"
+        },
+        {
+            "id": "LC002",
+            "name": "Warren Car",
+            "lat": "48.0592",
+            "lng": "-123.8849",
+            "explored": "YES",
+            "depth": "-50",
+            "desc": "This wreck is a gravesite, and requires a permit from the Park Rangers.",
+            "documented": "YES",
+            "identified": "YES",
+            "fragile": "YES",
+            "alias": "Warren Wreck"
         },
         {
             "id": "LU001",
@@ -4887,6 +4913,45 @@
             "identified": "YES",
             "fragile": "NO",
             "alias": "The 'Knot"
+        },
+        {
+            "id": "PUGETSOUND07",
+            "name": "Four Mile Rock Barges",
+            "lat": "47.64",
+            "lng": "-122.42833333333333",
+            "explored": "YES",
+            "depth": "-25",
+            "desc": "This wreck was added with the add button. It is useless until you fill it in with something.",
+            "documented": "YES",
+            "identified": "YES",
+            "fragile": "NO",
+            "alias": "Nameless Wreck"
+        },
+        {
+            "id": "PUGETSOUND08",
+            "name": "Alaska Reefer",
+            "lat": "48.069",
+            "lng": " -122.744",
+            "explored": "YES",
+            "depth": "-18",
+            "desc": "175' long wood hulled ship.",
+            "documented": "YES",
+            "identified": "YES",
+            "fragile": "NO",
+            "alias": "Nameless Wreck"
+        },
+        {
+            "id": "PUGETSOUND09",
+            "name": "Maury Island Barges",
+            "lat": "47.3627",
+            "lng": "-122.44025",
+            "explored": "YES",
+            "depth": "-20",
+            "desc": "",
+            "documented": "YES",
+            "identified": "YES",
+            "fragile": "NO",
+            "alias": ""
         }
     ]
 }
