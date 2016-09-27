@@ -19,28 +19,28 @@ var distMeters = function(lat1, lat2, lon1, lon2) {
 }
 
 markers.wpt.forEach(function(marker){
-  if (marker.AccessCode == "A") {
     streets.forEach(function(street){
-      var dist = distMeters(marker.lat, street.Position.lat, marker.lng, street.Position.lng);
+      if (street.AccessCode == "A") {
+        var dist = distMeters(marker.lat, street.Position.lat, marker.lng, street.Position.lng);
 
-      if (typeof(marker.access) == 'undefined') {
-        marker.access = {};
-      }
+        if (typeof(marker.access) == 'undefined') {
+          marker.access = {};
+        }
 
-      if (typeof(marker.access.shore) == 'undefined') {
-        marker.access.shore = {};
-      }
+        if (typeof(marker.access.shore) == 'undefined') {
+          marker.access.shore = {};
+        }
 
-      if (typeof(marker.access.shore.dist) == 'undefined') {
-        marker.access.shore.dist = -1;
-      }
+        if (typeof(marker.access.shore.dist) == 'undefined') {
+          marker.access.shore.dist = -1;
+        }
 
-      if (marker.access.shore.dist == -1 || marker.access.shore.dist > dist) {
-        marker.access.shore.dist = dist;
-        marker.access.shore.details = street;
+        if (marker.access.shore.dist == -1 || marker.access.shore.dist > dist) {
+          marker.access.shore.dist = dist;
+          marker.access.shore.details = street;
+        }
       }
     });
-  }
 });
 
 
