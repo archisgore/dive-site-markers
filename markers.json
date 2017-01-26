@@ -11420,16 +11420,16 @@
     },
     {
       "id": "LW667",
-      "name": "Unknown-LW667",
+      "name": "Chris T. Gee",
       "lat": "47.631023",
       "lng": "-122.272888",
-      "explored": "NO",
+      "explored": "YES",
       "depth": "-43.50",
-      "desc": "Wreck",
+      "desc": "1950s Chris Craft speedboat?",
       "documented": "NO",
       "identified": "NO",
       "fragile": "NO",
-      "alias": "Unknown-LW667",
+      "alias": "Chris T. Gee",
       "access": {
         "shore": {
           "dist": 328.14097947028876,
