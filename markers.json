@@ -4965,6 +4965,32 @@
             "identified": "YES",
             "fragile": "NO",
             "alias": ""
+        },
+        {
+            "id": "PUGETSOUND10",
+            "name": "Bill Zanke Wreck 1",
+            "lat": "47.54578531419114",
+            "lng": "-122.6527190208435",
+            "explored": "YES",
+            "depth": "-10",
+            "desc": "Wood pontoon",
+            "documented": "YES",
+            "identified": "NO",
+            "fragile": "NO",
+            "alias": ""
+        },
+        {
+            "id": "PUGETSOUND11",
+            "name": "Bill Zanke Wreck 2",
+            "lat": "47.54507559600815",
+            "lng": "-122.65310525894165",
+            "explored": "YES",
+            "depth": "-10",
+            "desc": "Wood pontoon",
+            "documented": "YES",
+            "identified": "NO",
+            "fragile": "NO",
+            "alias": ""
         }
     ]
 }
