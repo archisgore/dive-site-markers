@@ -4991,6 +4991,19 @@
             "identified": "NO",
             "fragile": "NO",
             "alias": ""
+        },
+        {
+            "id": "PUGETSOUND12",
+            "name": "Count Zankenstein",
+            "lat": "48.530139",
+            "lng": "-122.67025",
+            "explored": "NO",
+            "depth": "-20",
+            "desc": "Wreck - Submerged, dangerous to surface navigation",
+            "documented": "YES",
+            "identified": "NO",
+            "fragile": "NO",
+            "alias": ""
         }
     ]
 }
