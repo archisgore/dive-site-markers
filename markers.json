@@ -2914,16 +2914,16 @@
         },
         {
             "id": "LW471",
-            "name": "Unknown-LW471",
+            "name": "Billy Boy",
             "lat": "47.656235",
             "lng": "-122.221420",
-            "explored": "NO",
+            "explored": "YES",
             "depth": "-30.00",
-            "desc": "Wreck",
+            "desc": "Wooden Sailboat. Large. Burned hull.",
             "documented": "NO",
             "identified": "NO",
-            "fragile": "NO",
-            "alias": "Unknown-LW471"
+            "fragile": "YES",
+            "alias": ""
         },
         {
             "id": "LW472",
