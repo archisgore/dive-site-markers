@@ -14,6 +14,19 @@
             "alias": "Cove2"
         },
         {
+            "id": "ALKI02",
+            "name": "I-beams",
+            "lat": "47.58938",
+            "lng": "-122.3786002",
+            "explored": "YES",
+            "depth": "-30.00",
+            "desc": "Steel I-beams covered in plumose anemones",
+            "documented": "YES",
+            "identified": "YES",
+            "fragile": "NO",
+            "alias": "Cove2 I-beams"
+        },
+        {
             "id": "LC001",
             "name": "Steele Car",
             "lat": "48.0568",
