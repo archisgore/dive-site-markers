@@ -3,8 +3,8 @@
         {
             "id": "ALKI01",
             "name": "HoneyBear",
-            "lat": "47.5858",
-            "lng": "-122.375",
+            "lat": "47.588408",
+            "lng": "-122.378602",
             "explored": "YES",
             "depth": "-10.00",
             "desc": "The most visited Wreck in the Pacific Northwest.",
@@ -16,8 +16,8 @@
         {
             "id": "ALKI02",
             "name": "I-beams",
-            "lat": "47.58938",
-            "lng": "-122.3786002",
+            "lat": "47.5894",
+            "lng": "-122.3779",
             "explored": "YES",
             "depth": "-30.00",
             "desc": "Steel I-beams covered in plumose anemones",
