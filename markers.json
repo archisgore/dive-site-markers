@@ -3,8 +3,8 @@
         {
             "id": "ALKI01",
             "name": "HoneyBear",
-            "lat": "47.5858",
-            "lng": "-122.375",
+            "lat": "47.588408",
+            "lng": "-122.378602",
             "explored": "YES",
             "depth": "-10.00",
             "desc": "The most visited Wreck in the Pacific Northwest.",
@@ -12,6 +12,19 @@
             "identified": "YES",
             "fragile": "NO",
             "alias": "Cove2"
+        },
+        {
+            "id": "ALKI02",
+            "name": "I-beams",
+            "lat": "47.5894",
+            "lng": "-122.3779",
+            "explored": "YES",
+            "depth": "-30.00",
+            "desc": "Steel I-beams covered in plumose anemones",
+            "documented": "YES",
+            "identified": "YES",
+            "fragile": "NO",
+            "alias": "Cove2 I-beams"
         },
         {
             "id": "LC001",
@@ -3743,6 +3756,19 @@
             "identified": "NO",
             "fragile": "YES",
             "alias": "Dawn"
+        },
+        {
+            "id": "LW585",
+            "name": "Bloody Mary",
+            "lat": "47.522135",
+            "lng": "-122.251801",
+            "explored": "YES",
+            "depth": "-32.10",
+            "desc": "Tug, tipped over on it's side. Lined from shore, line continues to the Dawn",
+            "documented": "YES",
+            "identified": "NO",
+            "fragile": "YES",
+            "alias": "Bloody Mary"
         },
         {
             "id": "LW586",
