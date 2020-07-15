@@ -3758,6 +3758,19 @@
             "alias": "Dawn"
         },
         {
+            "id": "LW585",
+            "name": "Bloody Mary",
+            "lat": "47.522135",
+            "lng": "-122.251801",
+            "explored": "YES",
+            "depth": "-32.10",
+            "desc": "Tug, tipped over on it's side. Lined from shore, line continues to the Dawn",
+            "documented": "YES",
+            "identified": "NO",
+            "fragile": "YES",
+            "alias": "Bloody Mary"
+        },
+        {
             "id": "LW586",
             "name": "Unknown-LW586",
             "lat": "47.671452",
